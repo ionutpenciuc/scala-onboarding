@@ -1,0 +1,9 @@
+{
+  "base": "EUR",
+  "rates": {
+    "EUR": {"numerator": 1, "denominator": 1},
+    "USD": {"numerator": 92, "denominator": 100},
+    "RON": {"numerator": 20, "denominator": 100},
+    "GBP": {"numerator": 117, "denominator": 100}
+  }
+}
